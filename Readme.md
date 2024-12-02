@@ -1,4 +1,4 @@
-# Techstarter Marvin Y. Dokemntion
+# Techstarter Marvin Y. Dokumention
 
 -GitHub
 -Git
